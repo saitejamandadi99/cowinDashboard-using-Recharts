@@ -1,1 +1,15 @@
-/* Write your CSS here */
+.pieGraphhContainerGender {
+  background-color: #1c1c2b;
+  width: 95%;
+  height: auto;
+  border-radius: 10px;
+  font-family: Roboto;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.graphHeadingGender {
+  font-size: 20px;
+  color: #cbd5e1;
+}
