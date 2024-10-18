@@ -1,1 +1,37 @@
 /* Write your CSS here */
+.cowinDashboardContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+  font-family: Roboto;
+  color: white;
+  min-height: 100vh;
+  max-height: 200vh;
+  width: 100%;
+  padding: 20px;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-self: flex-start;
+  margin-left: 20px;
+}
+.websiteLogo {
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+  margin: 5px;
+}
+.logoHeading {
+  color: #2cc6c6;
+  font-size: 35px;
+  margin: 3px;
+}
+.websiteHeading {
+  color: #cbd5e1;
+  font-weight: 300;
+  font-size: 40px;
+  margin-left: 25px;
+}
